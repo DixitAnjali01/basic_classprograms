@@ -1,0 +1,5 @@
+#PROGRAM TO PRINT TWO STRING HELLO AND WORLD IN SAME LINES
+s1='Hello'
+s2='World'
+print(s1,s2)
+
